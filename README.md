@@ -11,6 +11,8 @@ Em _Software Selection_ alterar a opção para _Minimal Install_
 ![Captura de tela 2022-07-05 132402](https://user-images.githubusercontent.com/108694840/177373712-fe9bc1fa-cc3d-408f-b2cb-5f4453a38e9b.png)
 
 Em _Installation Destination_ alterar _Storage Configuration_ para a opção _Custon_
+![Captura de tela 2022-07-22 105539](https://user-images.githubusercontent.com/108694840/180476843-349ee93a-b645-42d9-834b-5671df813d7b.png)
+
 
 
 ## Instalar e configurar GitHub
