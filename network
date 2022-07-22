@@ -1,0 +1,4 @@
+# Created by anaconda
+NETWORK=yes
+HOSTNAME=oracle-linux1
+GATEWAY=10.0.2.2
